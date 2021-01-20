@@ -1,0 +1,8 @@
+﻿Version 2 30
+{
+	SHRINK_ACCEPT = Accept advice
+	SHRINK_BROKE = You don't have enough money for a session with Dr. Friedlander.
+	SHRINK_KILL_B = Take out ~b~Dr. Friedlander~s~ or let him go.
+	SHRINK_KILL_R = Take out ~r~Dr. Friedlander~s~ or let him go.
+	SHRINK_REJECT = Reject advice
+}
