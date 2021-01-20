@@ -1,0 +1,5 @@
+﻿Version 2 30
+{
+	BMARK_EXIT = Press ~INPUT_SCRIPT_RDOWN~ to exit benchmark.
+	BMARK_FPS = FPS: ~1~
+}

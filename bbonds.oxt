@@ -1,0 +1,21 @@
+﻿Version 2 30
+{
+	BBS_05 = Return to the ~b~bail jumper.~s~
+	BBS_APHEND = Apprehend the ~r~bail jumper.
+	BBS_APHEND2 = Apprehend the ~b~bail jumper.
+	BBS_APPSUS = Approach the ~r~bail jumper.
+	BBS_APPSUS2 = Approach the ~b~bail jumper.
+	BBS_BJ1 = ~w~Ralph Ostrowski~s~
+	BBS_BJ2 = ~w~Larry Tupper~s~
+	BBS_BJ3 = ~w~Glenn Scoville~s~
+	BBS_BJ4 = ~w~Curtis Weaver~s~
+	BBS_COPS = Lose the Cops.~s~
+	BBS_DROP = Take the bail jumper to ~y~Maude's place.
+	BBS_F1 = ~w~The bail jumper escaped.~s~
+	BBS_F2 = ~w~Maude was spooked.~s~
+	BBS_F3 = ~w~Maude died.~s~
+	BBS_MP = PASSED~s~
+	BBS_MPD = ~w~Bail Jumper Delivered: ~a~
+	BBS_MPK = ~w~Bail Jumper Killed: ~a~
+	BBS_VH1 = ~w~This vehicle isn't suitable to transport the bail jumper.~s~
+}
